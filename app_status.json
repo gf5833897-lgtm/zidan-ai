@@ -1,4 +1,4 @@
 {
-  "is_active": true,
-  "message": "অ্যাপটি চালু আছে।"
+  "is_active": false,
+  "message": "অ্যাপের সার্ভার আপাতত বন্ধ রাখা"
 }
